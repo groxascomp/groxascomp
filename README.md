@@ -15,19 +15,8 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 
 ---
 
-## 📊 GitHub Stats  
-![Gian's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=groxascomp&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Contribution Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=groxascomp&theme=radical)
-
----
-![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
 
 ---
 
@@ -36,5 +25,10 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 - 💼 [LinkedIn](https://linkedin.com/in/exe0107g)  
 - 🎮 [Steam](https://steamcommunity.com/id/76561198775654731)  
 - 🚀 [Project Showcase](https://gian-exequiel-roxas.vercel.app) 
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
