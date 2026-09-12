@@ -16,12 +16,16 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 ---
 
 ## 📊 GitHub Stats  
-![Gian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=groxascomp&show_icons=true&theme=radical)
+![Gian's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=groxascomp&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=groxascomp&theme=radical)
+
+---
+## 🏆 Top Languages  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=groxascomp&layout=compact&theme=radical)
 
 ---
 
