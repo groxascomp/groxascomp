@@ -24,7 +24,9 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=groxascomp&theme=radical)
 
 ---
-![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 ---
