@@ -24,8 +24,8 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=groxascomp&theme=radical)
 
 ---
-## 🏆 Top Languages  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=groxascomp&layout=compact&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/groxascomp/groxascomp/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -35,5 +35,4 @@ I enjoy building scalable web applications, experimenting with IoT projects, and
 - 🎮 [Steam](https://steamcommunity.com/id/76561198775654731)  
 - 🚀 [Project Showcase](https://gian-exequiel-roxas.vercel.app) 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
