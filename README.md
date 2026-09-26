@@ -1,8 +1,9 @@
 # Hey there 👋
 
 ## 👨‍💻 About Me  
-I’m **Gian Exequiel G Roxas**, a passionate developer and Computer Engineering graduate from the **Polytechnic University of the Philippines (PUP)**.  
-I enjoy building scalable web applications, experimenting with IoT projects, and continuously learning new technologies to sharpen my craft.  
+I’m Gian Exequiel G Roxas, a passionate developer and Computer Engineering graduate from the Polytechnic University of the Philippines (PUP). I enjoy building scalable web applications, experimenting with IoT projects, and continuously learning new technologies to sharpen my craft.
+
+Currently, I’m working at Accenture Philippines as an Associate Software Engineer, while also participating in a Java Full Stack Development bootcamp. This experience allows me to strengthen my expertise in both front‑end and back‑end technologies, aligning my growth with modern industry standards and preparing me to deliver robust, enterprise‑level solutions. 
 
 ---
 
