@@ -8,11 +8,52 @@ Currently, I’m working at Accenture Philippines as an Associate Software Engin
 ---
 
 ## 🔧 Technologies & Tools  
-- **Frontend:** HTML5 · CSS3 · JavaScript · Vue.js  
-- **Backend:** Node.js · Express  
-- **Databases:** Firebase · MySQL  
-- **Other Skills:** Arduino · C++ · Python · PHP  
-- **Developer Tools:** Postman · VS Code  
+
+### 🌐 Frontend  
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Vue.js  
+
+### ⚙️ Backend  
+- Java 11  
+- Spring Boot  
+- Node.js  
+- Express  
+- REST API Development  
+- Object-Oriented Programming (OOP)  
+- Collections Framework  
+- Exception Handling  
+
+### 🗄️ Databases  
+- SQL  
+- MySQL  
+- Firebase  
+- Database Design  
+- MySQL Workbench  
+
+### 🧪 Testing & API Tools  
+- JUnit  
+- Postman  
+- Bruno  
+
+### 🛠 Developer Tools & DevOps  
+- Git  
+- GitHub  
+- Git Bash  
+- Gitea  
+- VS Code  
+- SonarQube  
+- Rancher  
+- Docker  
+
+### 💡 Other Skills  
+- Arduino  
+- C++  
+- Python  
+- PHP  
+- IoT Projects & Embedded Systems  
 
 ---
 
